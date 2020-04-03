@@ -1,7 +1,7 @@
 import random
 
 
-def aleatorio ():
+def aleatorio_neumann ():
     semente = random.randrange(0,99)
     qtt_digitos = 2
 
@@ -19,6 +19,6 @@ def aleatorio ():
         # semente+= x[4]*10
         # semente+= x[5]
     
-    print(semente)
+    # print(semente)
     return semente
 
