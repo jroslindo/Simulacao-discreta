@@ -1,0 +1,3 @@
+Xoroshiro128+ implementação C: https://repl.it/@KevinAsher/Xoroshiro128
+Xoroshiro128+ em Python com Biblioteca: https://repl.it/@KevinAsher/python-Xoroshiro128
+Xoroshiro128+ em Python com teste Qui-Quadrado: https://repl.it/@KevinAsher/Xoroshiro128testexquadrado
