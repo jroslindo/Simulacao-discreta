@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                             gustavo.copini@gmail.com - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Ex2                                                         Data da execução : 5/15/2020
+Analista: gustavo.copini@gmail.com                                    Data de revisão do modelo: 5/15/2020
+
+Replicação terminada no tempo de      : 8.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .61773     (Insuf)    .50566     .71807         10    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         10    
+Entity 1.WaitTime                           .48102     (Insuf)    .00000     1.7263         10    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         10    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         10    
+Entity 1.TotalTime                          1.0987     (Insuf)    .57463     2.4312         10    
+ColocaMotor.Queue.WaitingTime               .51703     (Insuf)    .00000     1.7263         11    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.5297     (Insuf)    .00000     4.0000     1.0000    
+Motor.NumberBusy                            .81885     (Insuf)    .00000     1.0000     1.0000    
+Motor.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Motor.Utilization                           .81885     (Insuf)    .00000     1.0000     1.0000    
+ColocaMotor.Queue.NumberInQueue             .71092     (Insuf)    .00000     3.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           11.000    
+Entity 1.NumberOut                          10.000    
+Motor.NumberSeized                          11.000    
+Motor.ScheduledUtilization                  .81885    
+System.NumberOut                            10.000    
+
+
+Tempo executando a simulação: 0.02 minutos.
+Simulação completada.

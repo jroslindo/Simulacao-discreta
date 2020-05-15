@@ -1,0 +1,7 @@
+[RESOURCES]
+Motor
+[VARIABLES]
+Fim.NumberOut
+Inicio.NumberOut
+ColocaMotor.NumberOut
+ColocaMotor.NumberIn
